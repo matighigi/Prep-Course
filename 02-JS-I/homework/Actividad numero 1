@@ -1,0 +1,5 @@
+Variables: son objetos a los cuales les puede asignar valores o ya pueden tener valores asignados.
+String: es un tipo de variable de caracter nominal.
+Funciones: las funciones son un tipo de accionar que se utilizan para realizar determinadas acciones. Éstas pueden contener o no argumentos. El return es un tipo de declaración que se encarga de cortar el accionar de la función y retornar un valor.
+Declaraciones if: las declaracione if se clasifican como flujos de control y se encargan de verificar si tales condiciones de una funcion son true y de lo contrario false.
+Valores booleanos: son aquellos valores que provienen de la logica y que retornan dos posibles respuestas : true o false. 
