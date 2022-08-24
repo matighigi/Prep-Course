@@ -1,0 +1,5 @@
+Objetos:son tipos de datos que contienen valores que pueden ser varios y de distinto tipo.
+Propiedades: las propiedades son aquellas valores o subdatos que forman parte de un objeto.
+Metodos: son otros tipos de subdatos que forman parte de un objeto, y que poseen una funcionalidad.
+Blucle for...in: es un tipo de funcion repeticion que se distingue de su parecido, "bucle for", ya que en este tambien se declara la variable y va acompañada por el termino "in" y el nombre del objeto. Este bucle funcionara para recorrer cada clave del objeto y finalizara una vez haya iterado todas las claves.
+Notacion de puntos vs Notacion de corchetes: estos tipos de dotaciones sirven para acceder o agregar valores, funcione, etc a los distintos instrumentos o metodos de un objeto. En el cual la notacion de puntos es mas sencillo de usar y tiene un sentido de declaracion literal. La notacion de corchetes, es la clasica, y es un poco mas larga al momento de usarla.
